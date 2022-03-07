@@ -42,9 +42,12 @@
     cursor: pointer;
 }
 
+#clear {
+    background: lightslategray;
+}
+
 #equal {
-    background-color: orange;
-    color: whitesmoke;
+    background: orange;
 }
 
 .button:hover {
